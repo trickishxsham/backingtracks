@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "store": "IMPROVS2 Backing Tracks",
+  "updated": "2026-06-27",
+  "_format": {
+    "_comment": "Add one object per track to the 'tracks' array below. 'file' is the path inside this repo's tracks/ folder. id must be unique. key/bpm/genre power in-app filtering.",
+    "example": {
+      "id": "blues-shuffle-a-90",
+      "title": "Blues Shuffle in A",
+      "key": "A",
+      "bpm": 90,
+      "genre": "blues",
+      "file": "tracks/blues_shuffle_a_90.mp3",
+      "duration": 214,
+      "notes": "12-bar, dominant 7ths"
+    }
+  },
+  "tracks": []
+}
