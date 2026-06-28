@@ -18,6 +18,21 @@
         { "title": "Empathy Unknown",          "key": "D", "bpm": 92,  "duration": 128, "file": "tracks/trackpack1/5.empathy.unknown.mp3" },
         { "title": "Died Out Laughing",        "key": "G", "bpm": 161, "duration": 219, "file": "tracks/trackpack1/6.died.out.laughing.mp3" }
       ]
+    },
+    {
+      "id": "pack2",
+      "name": "PACK 2",
+      "leadKey": "G",
+      "priceGems": 300,
+      "priceTokens": 15,
+      "tracks": [
+        { "title": "Call A Little Hope",        "key": "C", "bpm": 70,  "duration": 235, "file": "tracks/trackpack2/1.call.a.little.hope.mp3" },
+        { "title": "Timelapse Of A Dying Tree", "key": "F", "bpm": 118, "duration": 322, "file": "tracks/trackpack2/2.timelapse.of.a.dying.tree.mp3" },
+        { "title": "Quite Picky",               "key": "C", "bpm": 108, "duration": 183, "file": "tracks/trackpack2/3.quite.picky.mp3" },
+        { "title": "Four Head Harp",            "key": "D", "bpm": 96,  "duration": 165, "file": "tracks/trackpack2/4.four.head.harp.dm.wav.mp3" },
+        { "title": "Then There Will Be",        "key": "G", "bpm": 62,  "duration": 288, "file": "tracks/trackpack2/5.then.there.will.be.mp3" },
+        { "title": "Outta Here",                "key": "G", "bpm": 63,  "duration": 64,  "file": "tracks/trackpack2/6.outta.here.mp3" }
+      ]
     }
   ]
 }
