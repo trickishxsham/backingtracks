@@ -17,3 +17,16 @@
   },
   "tracks": []
 }
+
+//Pack block to paste (one per pack):
+"packs": [
+ {
+ "id": "trackpack1",
+ "name": "Restless.Em.85",
+ "leadKey": "Em",
+ "priceGems": 39,
+ "tracks": [
+ { "title":"Restless", "key":"Em", "bpm":85, "file":"tracks/trackpack1/Restless.Em.85.mp3" },
+]
+ }
+]
