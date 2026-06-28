@@ -1,32 +1,23 @@
 {
   "schema": 1,
-  "store": "IMPROVS2 Backing Tracks",
-  "updated": "2026-06-27",
-  "_format": {
-    "_comment": "Add one object per track to the 'tracks' array below. 'file' is the path inside this repo's tracks/ folder. id must be unique. key/bpm/genre power in-app filtering.",
-    "example": {
-      "id": "blues-shuffle-a-90",
-      "title": "Blues Shuffle in A",
-      "key": "A",
-      "bpm": 90,
-      "genre": "blues",
-      "file": "tracks/blues_shuffle_a_90.mp3",
-      "duration": 214,
-      "notes": "12-bar, dominant 7ths"
+  "store": "IMPROVS2 backing tracks",
+  "updated": "2026-06-29",
+  "base": "https://cdn.jsdelivr.net/gh/trickishxsham/backingtracks@main/",
+  "packs": [
+    {
+      "id": "pack1",
+      "name": "PACK 1",
+      "leadKey": "G",
+      "priceGems": 300,
+      "priceTokens": 15,
+      "tracks": [
+        { "title": "Restless",                 "key": "E", "bpm": 85,  "duration": 190, "file": "tracks/trackpack1/1.restless.mp3" },
+        { "title": "Make Her Feel My Feet",    "key": "G", "bpm": 92,  "duration": 186, "file": "tracks/trackpack1/2.make.her.feel.my.feet.mp3" },
+        { "title": "Can We Do It Again Again", "key": "F", "bpm": 118, "duration": 125, "file": "tracks/trackpack1/3.can.we.do.it.again.again.mp3" },
+        { "title": "Martyrs Regret",           "key": "G", "bpm": 144, "duration": 193, "file": "tracks/trackpack1/4.martyrs.regret.mp3" },
+        { "title": "Empathy Unknown",          "key": "D", "bpm": 92,  "duration": 128, "file": "tracks/trackpack1/5.empathy.unknown.mp3" },
+        { "title": "Died Out Laughing",        "key": "G", "bpm": 161, "duration": 219, "file": "tracks/trackpack1/6.died.out.laughing.mp3" }
+      ]
     }
-  },
-  "tracks": []
+  ]
 }
-
-//Pack block to paste (one per pack):
-"packs": [
- {
- "id": "trackpack1",
- "name": "Restless.Em.85",
- "leadKey": "Em",
- "priceGems": 39,
- "tracks": [
- { "title":"Restless", "key":"Em", "bpm":85, "file":"tracks/trackpack1/Restless.Em.85.mp3" },
-]
- }
-]
