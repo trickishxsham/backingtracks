@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "store": "IMPROVS2 backing tracks",
-  "updated": "2026-06-29",
+  "updated": "2026-07-03",
   "base": "https://cdn.jsdelivr.net/gh/trickishxsham/backingtracks@main/",
   "packs": [
     {
@@ -11,12 +11,12 @@
       "priceGems": 300,
       "priceTokens": 15,
       "tracks": [
-        { "title": "Restless",                 "key": "E", "bpm": 85,  "duration": 190, "file": "tracks/trackpack1/1.restless.mp3" },
-        { "title": "Make Her Feel My Feet",    "key": "G", "bpm": 92,  "duration": 186, "file": "tracks/trackpack1/2.make.her.feel.my.feet.mp3" },
-        { "title": "Can We Do It Again Again", "key": "F", "bpm": 118, "duration": 125, "file": "tracks/trackpack1/3.can.we.do.it.again.again.mp3" },
-        { "title": "Martyrs Regret",           "key": "G", "bpm": 144, "duration": 193, "file": "tracks/trackpack1/4.martyrs.regret.mp3" },
-        { "title": "Empathy Unknown",          "key": "D", "bpm": 92,  "duration": 128, "file": "tracks/trackpack1/5.empathy.unknown.mp3" },
-        { "title": "Died Out Laughing",        "key": "G", "bpm": 161, "duration": 219, "file": "tracks/trackpack1/6.died.out.laughing.mp3" }
+        { "title": "Restless",                 "key": "Em", "bpm": 85,  "ts": "3/4", "duration": 190, "file": "tracks/trackpack1/1.restless.mp3" },
+        { "title": "Make Her Feel My Feet",    "key": "G",  "bpm": 92,  "ts": "4/4", "duration": 186, "file": "tracks/trackpack1/2.make.her.feel.my.feet.mp3" },
+        { "title": "Can We Do It Again Again", "key": "A#", "bpm": 118, "ts": "4/4", "duration": 125, "file": "tracks/trackpack1/3.can.we.do.it.again.again.mp3" },
+        { "title": "Martyrs Regret",           "key": "Gm", "bpm": 144, "ts": "4/4", "duration": 193, "file": "tracks/trackpack1/4.martyrs.regret.mp3" },
+        { "title": "Empathy Unknown",          "key": "A#", "bpm": 92,  "ts": "4/4", "duration": 128, "file": "tracks/trackpack1/5.empathy.unknown.mp3" },
+        { "title": "Died Out Laughing",        "key": "Em", "bpm": 161, "ts": "4/4", "duration": 219, "file": "tracks/trackpack1/6.died.out.laughing.mp3" }
       ]
     },
     {
@@ -26,12 +26,12 @@
       "priceGems": 300,
       "priceTokens": 15,
       "tracks": [
-        { "title": "Call A Little Hope",        "key": "C", "bpm": 70,  "duration": 235, "file": "tracks/trackpack2/1.call.a.little.hope.mp3" },
-        { "title": "Timelapse Of A Dying Tree", "key": "F", "bpm": 118, "duration": 322, "file": "tracks/trackpack2/2.timelapse.of.a.dying.tree.mp3" },
-        { "title": "Quite Picky",               "key": "C", "bpm": 108, "duration": 183, "file": "tracks/trackpack2/3.quite.picky.mp3" },
-        { "title": "Four Head Harp",            "key": "D", "bpm": 96,  "duration": 165, "file": "tracks/trackpack2/4.four.head.harp.dm.wav.mp3" },
-        { "title": "Then There Will Be",        "key": "G", "bpm": 62,  "duration": 288, "file": "tracks/trackpack2/5.then.there.will.be.mp3" },
-        { "title": "Outta Here",                "key": "G", "bpm": 63,  "duration": 64,  "file": "tracks/trackpack2/6.outta.here.mp3" }
+        { "title": "Call A Little Hope",        "key": "C",  "bpm": 70,  "ts": "4/4", "duration": 235, "file": "tracks/trackpack2/1.call.a.little.hope.mp3" },
+        { "title": "Timelapse Of A Dying Tree", "key": "F",  "bpm": 118, "ts": "4/4", "duration": 322, "file": "tracks/trackpack2/2.timelapse.of.a.dying.tree.mp3" },
+        { "title": "Quite Picky",               "key": "C",  "bpm": 108, "ts": "4/4", "duration": 183, "file": "tracks/trackpack2/3.quite.picky.mp3" },
+        { "title": "Four Head Harp",            "key": "Dm", "bpm": 96,  "ts": "4/4", "duration": 165, "file": "tracks/trackpack2/4.four.head.harp.dm.wav.mp3" },
+        { "title": "Then There Will Be",        "key": "Cm", "bpm": 62,  "ts": "4/4", "duration": 288, "file": "tracks/trackpack2/5.then.there.will.be.mp3" },
+        { "title": "Outta Here",                "key": "Gm", "bpm": 63,  "ts": "4/4", "duration": 64,  "file": "tracks/trackpack2/6.outta.here.mp3" }
       ]
     }
   ]
