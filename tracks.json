@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "store": "IMPROVS2 backing tracks",
-  "updated": "2026-07-03",
+  "updated": "2026-07-04",
   "base": "https://cdn.jsdelivr.net/gh/trickishxsham/backingtracks@main/",
   "packs": [
     {
       "id": "pack1",
       "name": "PACK 1",
-      "leadKey": "G",
+      "leadKey": "Em",
       "priceGems": 300,
       "priceTokens": 15,
       "tracks": [
@@ -22,7 +22,7 @@
     {
       "id": "pack2",
       "name": "PACK 2",
-      "leadKey": "G",
+      "leadKey": "C",
       "priceGems": 300,
       "priceTokens": 15,
       "tracks": [
@@ -32,6 +32,21 @@
         { "title": "Four Head Harp",            "key": "Dm", "bpm": 96,  "ts": "4/4", "duration": 165, "file": "tracks/trackpack2/4.four.head.harp.dm.wav.mp3" },
         { "title": "Then There Will Be",        "key": "Cm", "bpm": 62,  "ts": "4/4", "duration": 288, "file": "tracks/trackpack2/5.then.there.will.be.mp3" },
         { "title": "Outta Here",                "key": "Gm", "bpm": 63,  "ts": "4/4", "duration": 64,  "file": "tracks/trackpack2/6.outta.here.mp3" }
+      ]
+    },
+    {
+      "id": "pack3",
+      "name": "PACK 3",
+      "leadKey": "Gm",
+      "priceGems": 300,
+      "priceTokens": 15,
+      "tracks": [
+        { "title": "My House Burnt Down",      "key": "C",   "bpm": 112, "ts": "4/4", "duration": 185, "file": "tracks/trackpack3/1.my.house.burnt.down.mp3" },
+        { "title": "It Was Hard Raining",      "key": "D#m", "bpm": 129, "ts": "4/4", "duration": 180, "file": "tracks/trackpack3/2.it.was.hard.raining.mp3" },
+        { "title": "Tangents",                 "key": "A#m", "bpm": 123, "ts": "4/4", "duration": 163, "file": "tracks/trackpack3/3.tangents.mp3" },
+        { "title": "Sun Scream Black Biscuit", "key": "F",   "bpm": 86,  "ts": "4/4", "duration": 177, "file": "tracks/trackpack3/4.sun.scream.black.biscuit.mp3" },
+        { "title": "Boxin Age 5",              "key": "Gm",  "bpm": 83,  "ts": "4/4", "duration": 235, "file": "tracks/trackpack3/5.boxin.age.5.mp3" },
+        { "title": "Choke On My Smoke",        "key": "Gm",  "bpm": 161, "ts": "3/4", "duration": 266, "file": "tracks/trackpack3/6.choke.on.my.smoke.mp3" }
       ]
     }
   ]
