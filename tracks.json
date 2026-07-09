@@ -14,9 +14,9 @@
         { "title": "Restless",                 "key": "Em", "bpm": 85,  "ts": "3/4", "duration": 190, "file": "tracks/trackpack1/1.restless.mp3" },
         { "title": "Make Her Feel My Feet",    "key": "G",  "bpm": 92,  "ts": "4/4", "duration": 186, "file": "tracks/trackpack1/2.make.her.feel.my.feet.mp3" },
         { "title": "Can We Do It Again Again", "key": "A#", "bpm": 118, "ts": "4/4", "duration": 125, "file": "tracks/trackpack1/3.can.we.do.it.again.again.mp3" },
-        { "title": "Martyrs Regret",           "key": "Gm", "bpm": 144, "ts": "4/4", "duration": 193, "file": "tracks/trackpack1/4.martyrs.regret.mp3" },
+        { "title": "Martyrs Regret",           "key": "Gm", "bpm": 72,  "ts": "4/4", "duration": 193, "file": "tracks/trackpack1/4.martyrs.regret.mp3" },
         { "title": "Empathy Unknown",          "key": "A#", "bpm": 92,  "ts": "4/4", "duration": 128, "file": "tracks/trackpack1/5.empathy.unknown.mp3" },
-        { "title": "Died Out Laughing",        "key": "Em", "bpm": 161, "ts": "4/4", "duration": 219, "file": "tracks/trackpack1/6.died.out.laughing.mp3" }
+        { "title": "Died Out Laughing",        "key": "Em", "bpm": 81,  "ts": "4/4", "duration": 219, "file": "tracks/trackpack1/6.died.out.laughing.mp3" }
       ]
     },
     {
@@ -42,11 +42,11 @@
       "priceTokens": 15,
       "tracks": [
         { "title": "My House Burnt Down",      "key": "C",   "bpm": 112, "ts": "4/4", "duration": 185, "file": "tracks/trackpack3/1.my.house.burnt.down.mp3" },
-        { "title": "It Was Hard Raining",      "key": "D#m", "bpm": 129, "ts": "4/4", "duration": 180, "file": "tracks/trackpack3/2.it.was.hard.raining.mp3" },
+        { "title": "It Was Hard Raining",      "key": "D#m", "bpm": 65,  "ts": "4/4", "duration": 180, "file": "tracks/trackpack3/2.it.was.hard.raining.mp3" },
         { "title": "Tangents",                 "key": "A#m", "bpm": 123, "ts": "4/4", "duration": 163, "file": "tracks/trackpack3/3.tangents.mp3" },
         { "title": "Sun Scream Black Biscuit", "key": "F",   "bpm": 86,  "ts": "4/4", "duration": 177, "file": "tracks/trackpack3/4.sun.scream.black.biscuit.mp3" },
         { "title": "Boxin Age 5",              "key": "Gm",  "bpm": 83,  "ts": "4/4", "duration": 235, "file": "tracks/trackpack3/5.boxin.age.5.mp3" },
-        { "title": "Choke On My Smoke",        "key": "Gm",  "bpm": 161, "ts": "3/4", "duration": 266, "file": "tracks/trackpack3/6.choke.on.my.smoke.mp3" }
+        { "title": "Choke On My Smoke",        "key": "Gm",  "bpm": 81,  "ts": "3/4", "duration": 266, "file": "tracks/trackpack3/6.choke.on.my.smoke.mp3" }
       ]
     },
     {
@@ -57,11 +57,71 @@
       "priceTokens": 15,
       "tracks": [
         { "title": "Appraisals",          "key": "A",  "bpm": 112, "ts": "4/4", "duration": 179, "file": "tracks/trackpack4/1.appraisals.mp3" },
-        { "title": "Good For You",        "key": "Gm", "bpm": 129, "ts": "4/4", "duration": 344, "file": "tracks/trackpack4/2.good.for.you.mp3" },
+        { "title": "Good For You",        "key": "Gm", "bpm": 65,  "ts": "4/4", "duration": 344, "file": "tracks/trackpack4/2.good.for.you.mp3" },
         { "title": "Wet Eyed Sobbing",    "key": "G",  "bpm": 78,  "ts": "4/4", "duration": 225, "file": "tracks/trackpack4/3.wet.eyed.sobbing.mp3" },
-        { "title": "Saw From A Window",   "key": "A#", "bpm": 129, "ts": "4/4", "duration": 177, "file": "tracks/trackpack4/4.saw.from.a.window.mp3" },
+        { "title": "Saw From A Window",   "key": "A#", "bpm": 65,  "ts": "4/4", "duration": 177, "file": "tracks/trackpack4/4.saw.from.a.window.mp3" },
         { "title": "Well What Can We Do", "key": "Gm", "bpm": 83,  "ts": "4/4", "duration": 154, "file": "tracks/trackpack4/5.well.what.can.we.do.mp3" },
-        { "title": "Cliff Anxiety",       "key": "Gm", "bpm": 129, "ts": "4/4", "duration": 223, "file": "tracks/trackpack4/6.cliff.anxiety.mp3" }
+        { "title": "Cliff Anxiety",       "key": "Gm", "bpm": 65,  "ts": "4/4", "duration": 223, "file": "tracks/trackpack4/6.cliff.anxiety.mp3" }
+      ]
+    },
+    {
+      "id": "pack5",
+      "name": "PACK 5",
+      "leadKey": "Em",
+      "priceGems": 300,
+      "priceTokens": 15,
+      "tracks": [
+        { "title": "The Old Well",            "key": "Gm",  "bpm": 92, "ts": "3/4", "duration": 163, "file": "tracks/trackpack5/1.the.old.well.mp3" },
+        { "title": "Dark Dreaded Taker",      "key": "D#m", "bpm": 78, "ts": "4/4", "duration": 209, "file": "tracks/trackpack5/2.dark.dreaded.taker.mp3" },
+        { "title": "Just Calm Down",          "key": "Em",  "bpm": 62, "ts": "4/4", "duration": 214, "file": "tracks/trackpack5/3.just.calm.down.mp3" },
+        { "title": "Quantum",                 "key": "Gm",  "bpm": 86, "ts": "4/4", "duration": 129, "file": "tracks/trackpack5/4.quantum.mp3" },
+        { "title": "Moody The Mole Rat Rudy", "key": "A",   "bpm": 89, "ts": "3/4", "duration": 235, "file": "tracks/trackpack5/5.moody.the.mole.rat.rudy.mp3" },
+        { "title": "Said Rick",               "key": "Em",  "bpm": 81, "ts": "4/4", "duration": 355, "file": "tracks/trackpack5/6.said.rick.mp3" }
+      ]
+    },
+    {
+      "id": "pack6",
+      "name": "PACK 6",
+      "leadKey": "C",
+      "priceGems": 300,
+      "priceTokens": 15,
+      "tracks": [
+        { "title": "Blinded By Your Lights",  "key": "D",  "bpm": 108, "ts": "4/4", "duration": 228, "file": "tracks/trackpack6/1.blinded.by.your.lights.mp3" },
+        { "title": "Friend Like Me Like You", "key": "G",  "bpm": 86,  "ts": "4/4", "duration": 233, "file": "tracks/trackpack6/2.friend.like.me.like.you.mp3" },
+        { "title": "Cotto",                   "key": "D#", "bpm": 129, "ts": "4/4", "duration": 179, "file": "tracks/trackpack6/3.cotto.mp3" },
+        { "title": "Carry Me No Stranger",    "key": "C",  "bpm": 86,  "ts": "4/4", "duration": 110, "file": "tracks/trackpack6/4.carry.me.no.stranger.mp3" },
+        { "title": "You Named X",             "key": "C",  "bpm": 129, "ts": "4/4", "duration": 309, "file": "tracks/trackpack6/5.you.named.x.mp3" },
+        { "title": "Chewed Up",               "key": "D",  "bpm": 136, "ts": "4/4", "duration": 100, "file": "tracks/trackpack6/6.chewed.up.mp3" }
+      ]
+    },
+    {
+      "id": "pack7",
+      "name": "PACK 7",
+      "leadKey": "Am",
+      "priceGems": 300,
+      "priceTokens": 15,
+      "tracks": [
+        { "title": "So Delicate I Brute", "key": "Em", "bpm": 89, "ts": "3/4", "duration": 165, "file": "tracks/trackpack7/1.so.delicate.i.brute.mp3" },
+        { "title": "Dark Taker",          "key": "Em", "bpm": 78, "ts": "4/4", "duration": 214, "file": "tracks/trackpack7/2.dark.taker.mp3" },
+        { "title": "Likely To Land Here", "key": "A",  "bpm": 81, "ts": "4/4", "duration": 180, "file": "tracks/trackpack7/3.likely.to.land.here.mp3" },
+        { "title": "Midnight Mycelium",   "key": "Am", "bpm": 89, "ts": "4/4", "duration": 227, "file": "tracks/trackpack7/4.midnight.mycelium.mp3" },
+        { "title": "Everyday Waltz",      "key": "G",  "bpm": 85, "ts": "3/4", "duration": 189, "file": "tracks/trackpack7/5.everyday.waltz.mp3" },
+        { "title": "Hide From The Light", "key": "Am", "bpm": 89, "ts": "3/4", "duration": 192, "file": "tracks/trackpack7/6.hide.from.the.light.v2.mp3" }
+      ]
+    },
+    {
+      "id": "pack8",
+      "name": "PACK 8",
+      "leadKey": "Am",
+      "priceGems": 300,
+      "priceTokens": 15,
+      "tracks": [
+        { "title": "Five Points To Two",   "key": "E",   "bpm": 78,  "ts": "4/4", "duration": 268, "file": "tracks/trackpack8/1.five.points.to.two.mp3" },
+        { "title": "Two Lovers Part I",    "key": "F#m", "bpm": 89,  "ts": "4/4", "duration": 227, "file": "tracks/trackpack8/2.two.lovers.part.i.mp3" },
+        { "title": "Hide From The Light",  "key": "Bm",  "bpm": 89,  "ts": "4/4", "duration": 246, "file": "tracks/trackpack8/3.hide.from.the.light.mp3" },
+        { "title": "Mushroom Mate",        "key": "Am",  "bpm": 66,  "ts": "4/4", "duration": 159, "file": "tracks/trackpack8/4.mushroom.mate.mp3" },
+        { "title": "Cedric",               "key": "Am",  "bpm": 112, "ts": "4/4", "duration": 232, "file": "tracks/trackpack8/5.cedric.mp3" },
+        { "title": "What Will Summer Say", "key": "Am",  "bpm": 92,  "ts": "4/4", "duration": 155, "file": "tracks/trackpack8/6.what.will.summer.say.mp3" }
       ]
     }
   ]
