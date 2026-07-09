@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "store": "IMPROVS2 backing tracks",
-  "updated": "2026-07-04",
+  "updated": "2026-07-09",
   "base": "https://cdn.jsdelivr.net/gh/trickishxsham/backingtracks@main/",
   "packs": [
     {
@@ -47,6 +47,21 @@
         { "title": "Sun Scream Black Biscuit", "key": "F",   "bpm": 86,  "ts": "4/4", "duration": 177, "file": "tracks/trackpack3/4.sun.scream.black.biscuit.mp3" },
         { "title": "Boxin Age 5",              "key": "Gm",  "bpm": 83,  "ts": "4/4", "duration": 235, "file": "tracks/trackpack3/5.boxin.age.5.mp3" },
         { "title": "Choke On My Smoke",        "key": "Gm",  "bpm": 161, "ts": "3/4", "duration": 266, "file": "tracks/trackpack3/6.choke.on.my.smoke.mp3" }
+      ]
+    },
+    {
+      "id": "pack4",
+      "name": "PACK 4",
+      "leadKey": "Gm",
+      "priceGems": 300,
+      "priceTokens": 15,
+      "tracks": [
+        { "title": "Appraisals",          "key": "A",  "bpm": 112, "ts": "4/4", "duration": 179, "file": "tracks/trackpack4/1.appraisals.mp3" },
+        { "title": "Good For You",        "key": "Gm", "bpm": 129, "ts": "4/4", "duration": 344, "file": "tracks/trackpack4/2.good.for.you.mp3" },
+        { "title": "Wet Eyed Sobbing",    "key": "G",  "bpm": 78,  "ts": "4/4", "duration": 225, "file": "tracks/trackpack4/3.wet.eyed.sobbing.mp3" },
+        { "title": "Saw From A Window",   "key": "A#", "bpm": 129, "ts": "4/4", "duration": 177, "file": "tracks/trackpack4/4.saw.from.a.window.mp3" },
+        { "title": "Well What Can We Do", "key": "Gm", "bpm": 83,  "ts": "4/4", "duration": 154, "file": "tracks/trackpack4/5.well.what.can.we.do.mp3" },
+        { "title": "Cliff Anxiety",       "key": "Gm", "bpm": 129, "ts": "4/4", "duration": 223, "file": "tracks/trackpack4/6.cliff.anxiety.mp3" }
       ]
     }
   ]
