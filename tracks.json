@@ -123,6 +123,66 @@
         { "title": "Cedric",               "key": "Am",  "bpm": 112, "ts": "4/4", "duration": 232, "file": "tracks/trackpack8/5.cedric.mp3" },
         { "title": "What Will Summer Say", "key": "Am",  "bpm": 92,  "ts": "4/4", "duration": 155, "file": "tracks/trackpack8/6.what.will.summer.say.mp3" }
       ]
+    },
+    {
+      "id": "pack9",
+      "name": "PACK 9",
+      "leadKey": "C",
+      "priceGems": 300,
+      "priceTokens": 15,
+      "tracks": [
+        { "title": "No Trust For An Unknown Source", "key": "C",  "bpm": 92, "ts": "4/4", "duration": 214, "file": "tracks/trackpack9/1.no.trust.for.an.unknown.source.mp3" },
+        { "title": "In The Sack",                    "key": "Gm", "bpm": 60, "ts": "4/4", "duration": 479, "file": "tracks/trackpack9/2.in.the.sack.mp3" },
+        { "title": "Blue My Trip",                   "key": "Dm", "bpm": 76, "ts": "4/4", "duration": 456, "file": "tracks/trackpack9/3.blue.my.trip.mp3" },
+        { "title": "Something Green",                "key": "Am", "bpm": 99, "ts": "4/4", "duration": 206, "file": "tracks/trackpack9/4.something.green.mp3" },
+        { "title": "Machine Learns To Pray",         "key": "E",  "bpm": 83, "ts": "4/4", "duration": 360, "file": "tracks/trackpack9/5.machine.learns.to.pray.mp3" },
+        { "title": "Fairy Dance",                    "key": "Cm", "bpm": 66, "ts": "4/4", "duration": 445, "file": "tracks/trackpack9/6.fairy.dance.mp3" }
+      ]
+    },
+    {
+      "id": "pack10",
+      "name": "PACK 10",
+      "leadKey": "Em",
+      "priceGems": 300,
+      "priceTokens": 15,
+      "tracks": [
+        { "title": "Gone Away",         "key": "Bm", "bpm": 96,  "ts": "4/4", "duration": 288, "file": "tracks/trackpack10/1.gone.away.mp3" },
+        { "title": "Crimson",           "key": "Em", "bpm": 99,  "ts": "4/4", "duration": 225, "file": "tracks/trackpack10/2.crimson.mp3" },
+        { "title": "Cafe For Ghosts",   "key": "Em", "bpm": 62,  "ts": "4/4", "duration": 75,  "file": "tracks/trackpack10/3.cafe.for.ghosts.mp3" },
+        { "title": "Drool Nap",         "key": "Dm", "bpm": 66,  "ts": "4/4", "duration": 361, "file": "tracks/trackpack10/4.drool.nap.mp3" },
+        { "title": "Spat Tubes",        "key": "C",  "bpm": 108, "ts": "4/4", "duration": 257, "file": "tracks/trackpack10/5.spat.tubes.mp3" },
+        { "title": "Catch And Release", "key": "Em", "bpm": 117, "ts": "4/4", "duration": 275, "file": "tracks/trackpack10/6.catch.and.release.mp3" }
+      ]
+    },
+    {
+      "id": "pack11",
+      "name": "PACK 11",
+      "leadKey": "Am",
+      "priceGems": 300,
+      "priceTokens": 15,
+      "tracks": [
+        { "title": "Green Town",              "key": "Am", "bpm": 72,  "ts": "4/4", "duration": 288, "file": "tracks/trackpack11/1.green.town.mp3" },
+        { "title": "Impressionist",           "key": "Am", "bpm": 89,  "ts": "4/4", "duration": 161, "file": "tracks/trackpack11/2.impressionist.mp3" },
+        { "title": "Under Water",             "key": "G",  "bpm": 92,  "ts": "4/4", "duration": 186, "file": "tracks/trackpack11/3.under.water.mp3" },
+        { "title": "Sassy",                   "key": "Fm", "bpm": 62,  "ts": "4/4", "duration": 204, "file": "tracks/trackpack11/4.sassy.mp3" },
+        { "title": "Rock He Claimed His Own", "key": "D#", "bpm": 136, "ts": "4/4", "duration": 121, "file": "tracks/trackpack11/5.rock.he.claimed.his.own.mp3" },
+        { "title": "Can't Recall",            "key": "C",  "bpm": 74,  "ts": "4/4", "duration": 180, "file": "tracks/trackpack11/6.cant.recall.mp3" }
+      ]
+    },
+    {
+      "id": "pack12",
+      "name": "PACK 12",
+      "leadKey": "D",
+      "priceGems": 300,
+      "priceTokens": 15,
+      "tracks": [
+        { "title": "Two Lovers Part II",  "key": "F#m", "bpm": 89,  "ts": "4/4", "duration": 202, "file": "tracks/trackpack12/1.two.lovers.part.ii.mp3" },
+        { "title": "Dirt Love",           "key": "A",   "bpm": 112, "ts": "4/4", "duration": 224, "file": "tracks/trackpack12/2.dirt.love.mp3" },
+        { "title": "Why Should I",        "key": "Cm",  "bpm": 89,  "ts": "4/4", "duration": 302, "file": "tracks/trackpack12/3.why.should.i.mp3" },
+        { "title": "Not Your Whole Life", "key": "Gm",  "bpm": 78,  "ts": "4/4", "duration": 260, "file": "tracks/trackpack12/4.not.your.whole.life.mp3" },
+        { "title": "Deca",                "key": "Bm",  "bpm": 78,  "ts": "4/4", "duration": 144, "file": "tracks/trackpack12/5.deca.mp3" },
+        { "title": "Draw This Blind",     "key": "D",   "bpm": 78,  "ts": "4/4", "duration": 370, "file": "tracks/trackpack12/6.draw.this.blind.mp3" }
+      ]
     }
   ]
 }
