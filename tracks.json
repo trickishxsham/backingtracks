@@ -183,6 +183,66 @@
         { "title": "Deca",                "key": "Bm",  "bpm": 78,  "ts": "4/4", "duration": 144, "file": "tracks/trackpack12/5.deca.mp3" },
         { "title": "Draw This Blind",     "key": "D",   "bpm": 78,  "ts": "4/4", "duration": 370, "file": "tracks/trackpack12/6.draw.this.blind.mp3" }
       ]
+    },
+    {
+      "id": "pack13",
+      "name": "PACK 13",
+      "leadKey": "Em",
+      "priceGems": 300,
+      "priceTokens": 15,
+      "tracks": [
+        { "title": "Venga",             "key": "Em", "bpm": 72,  "ts": "4/4", "duration": 317, "file": "tracks/trackpack13/1.venga.mp3" },
+        { "title": "Shy Tea",           "key": "Bm", "bpm": 78,  "ts": "4/4", "duration": 102, "file": "tracks/trackpack13/2.shy.tea.mp3" },
+        { "title": "Piano Man Sad Key", "key": "C",  "bpm": 136, "ts": "4/4", "duration": 82,  "file": "tracks/trackpack13/3.piano.man.sad.key.mp3" },
+        { "title": "Cruiser",           "key": "Em", "bpm": 99,  "ts": "4/4", "duration": 195, "file": "tracks/trackpack13/4.cruiser.mp3" },
+        { "title": "Twistle",           "key": "Am", "bpm": 89,  "ts": "4/4", "duration": 161, "file": "tracks/trackpack13/5.twistle.mp3" },
+        { "title": "Coffee Host",       "key": "Em", "bpm": 60,  "ts": "4/4", "duration": 170, "file": "tracks/trackpack13/6.coffee.host.mp3" }
+      ]
+    },
+    {
+      "id": "pack14",
+      "name": "PACK 14",
+      "leadKey": "Gm",
+      "priceGems": 300,
+      "priceTokens": 15,
+      "tracks": [
+        { "title": "Makin Too Much Noise", "key": "Am",  "bpm": 76, "ts": "4/4", "duration": 248, "file": "tracks/trackpack14/1.makin.too.much.noise.mp3" },
+        { "title": "El Mago",              "key": "Gm",  "bpm": 92, "ts": "4/4", "duration": 309, "file": "tracks/trackpack14/2.el.mago.mp3" },
+        { "title": "I",                    "key": "C",   "bpm": 81, "ts": "4/4", "duration": 270, "file": "tracks/trackpack14/3.i.mp3" },
+        { "title": "Lost In Tokyo",        "key": "Em",  "bpm": 81, "ts": "4/4", "duration": 215, "file": "tracks/trackpack14/4.lost.in.tokyo.mp3" },
+        { "title": "Goodbye Bonnie",       "key": "F#m", "bpm": 99, "ts": "4/4", "duration": 144, "file": "tracks/trackpack14/5.goodbye.bonnie.mp3" },
+        { "title": "Bye For Now",          "key": "Gm",  "bpm": 96, "ts": "4/4", "duration": 204, "file": "tracks/trackpack14/6.bye.for.now.mp3" }
+      ]
+    },
+    {
+      "id": "pack15",
+      "name": "PACK 15",
+      "leadKey": "Cm",
+      "priceGems": 300,
+      "priceTokens": 15,
+      "tracks": [
+        { "title": "Deadman Said",                 "key": "F#m", "bpm": 92,  "ts": "4/4", "duration": 160, "file": "tracks/trackpack15/1.deadman.said.mp3" },
+        { "title": "Ephemeral",                    "key": "D",   "bpm": 108, "ts": "4/4", "duration": 264, "file": "tracks/trackpack15/2.ephemeral.mp3" },
+        { "title": "Lost Sock",                    "key": "C",   "bpm": 89,  "ts": "4/4", "duration": 192, "file": "tracks/trackpack15/3.lost.sock.mp3" },
+        { "title": "Fairy Dance Revisited",        "key": "Cm",  "bpm": 65,  "ts": "4/4", "duration": 445, "file": "tracks/trackpack15/4.fairy.dance.revisited.mp3" },
+        { "title": "Fall Grab Clutch",             "key": "Dm",  "bpm": 60,  "ts": "4/4", "duration": 173, "file": "tracks/trackpack15/5.fall.grab.clutch.mp3" },
+        { "title": "Don't Twist Me On The Tracks", "key": "D#",  "bpm": 89,  "ts": "4/4", "duration": 180, "file": "tracks/trackpack15/6.dont.twist.me.on.the.tracks.mp3" }
+      ]
+    },
+    {
+      "id": "pack16",
+      "name": "PACK 16",
+      "leadKey": "D",
+      "priceGems": 300,
+      "priceTokens": 15,
+      "tracks": [
+        { "title": "Under The Bob",        "key": "F",  "bpm": 108, "ts": "4/4", "duration": 273, "file": "tracks/trackpack16/1.under.the.bob.mp3" },
+        { "title": "Fall Thru Her Clouds", "key": "Gm", "bpm": 65,  "ts": "4/4", "duration": 164, "file": "tracks/trackpack16/2.fall.thru.her.clouds.mp3" },
+        { "title": "To The Beach",         "key": "D",  "bpm": 66,  "ts": "4/4", "duration": 314, "file": "tracks/trackpack16/3.to.the.beach.mp3" },
+        { "title": "Leftover Umbrella",    "key": "Fm", "bpm": 89,  "ts": "4/4", "duration": 167, "file": "tracks/trackpack16/4.leftover.umbrella.mp3" },
+        { "title": "Unfortunate Ones",     "key": "D",  "bpm": 81,  "ts": "4/4", "duration": 422, "file": "tracks/trackpack16/5.unfortunate.ones.mp3" },
+        { "title": "Ice Thawed",           "key": "Em", "bpm": 74,  "ts": "4/4", "duration": 193, "file": "tracks/trackpack16/6.ice.thawed.mp3" }
+      ]
     }
   ]
 }
