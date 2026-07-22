@@ -243,9 +243,7 @@
         { "title": "Unfortunate Ones",     "key": "D",  "bpm": 81,  "ts": "4/4", "duration": 422, "file": "tracks/trackpack16/5.unfortunate.ones.mp3" },
         { "title": "Ice Thawed",           "key": "Em", "bpm": 74,  "ts": "4/4", "duration": 193, "file": "tracks/trackpack16/6.ice.thawed.mp3" }
       ]
-    }
-  ]
-}
+    },
 {
   "id": "trackpack17freetime",
   "name": "Free Time",
