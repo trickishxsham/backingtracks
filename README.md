@@ -42,7 +42,9 @@ runtime, so **adding a track here makes it appear in the app with no app update*
 
 ## Licence
 
-Original IMPROVS2 backing tracks are protected by the terms in ""LICENSE.md"" (LICENSE.md), subject to any existing rights granted under earlier licences and any separate rights notices.
+Original IMPROVS2 backing tracks are protected by the terms in
+[`LICENSE.md`](LICENSE.md), subject to any existing rights granted under
+earlier licences and any separate rights notices.
 
 Personal practice and noncommercial recording are permitted under the stated terms. Commercial distribution or monetisation requires separate permission where the relevant rights are controlled by the rights holder.
 
