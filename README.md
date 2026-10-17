@@ -40,5 +40,10 @@ runtime, so **adding a track here makes it appear in the app with no app update*
 - MP3 only. No WAV (too large for the CDN, 20 MB/file jsDelivr limit).
 - Only upload tracks you own or have the right to distribute.
 
-## License
-CC0-1.0 — public domain. See `LICENSE`.
+## Licence
+
+Original IMPROVS2 backing tracks are protected by the terms in ""LICENSE.md"" (LICENSE.md), subject to any existing rights granted under earlier licences and any separate rights notices.
+
+Personal practice and noncommercial recording are permitted under the stated terms. Commercial distribution or monetisation requires separate permission where the relevant rights are controlled by the rights holder.
+
+Only upload tracks you own or have the right to distribute.
